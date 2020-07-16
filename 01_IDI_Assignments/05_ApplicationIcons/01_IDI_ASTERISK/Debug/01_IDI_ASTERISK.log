@@ -1,0 +1,3 @@
+﻿  IDI_ASTERISK.cpp
+E:\hrituja_rtr\WinDev\WinDev2020\05_AlternativeForApplicationIcon\01_IDI_ASTERISK\IDI_ASTERISK.cpp(29,9): warning C4002: too many arguments for function-like macro invocation 'CreateWindowW'
+  01_IDI_ASTERISK.vcxproj -> E:\hrituja_rtr\WinDev\WinDev2020\05_AlternativeForApplicationIcon\01_IDI_ASTERISK\Debug\01_IDI_ASTERISK.exe

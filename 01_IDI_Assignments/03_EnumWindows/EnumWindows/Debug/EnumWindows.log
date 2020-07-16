@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\hrituja_rtr\WinDev\WinDev_2020\01_IDI_Assignments\03_EnumWindows\EnumWindows\Source.cpp(118,7): warning C4101: 'str': unreferenced local variable
+  EnumWindows.vcxproj -> E:\hrituja_rtr\WinDev\WinDev_2020\01_IDI_Assignments\03_EnumWindows\EnumWindows\Debug\EnumWindows.exe

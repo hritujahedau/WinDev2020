@@ -1,0 +1,2 @@
+E:\hrituja_rtr\WinDev\WinDev2020\06_ShowWindow\05_SW_RESTORE\Debug\05_SW_RESTORE.exe
+E:\hrituja_rtr\WinDev\WinDev2020\06_ShowWindow\05_SW_RESTORE\Debug\05_SW_RESTORE.pdb

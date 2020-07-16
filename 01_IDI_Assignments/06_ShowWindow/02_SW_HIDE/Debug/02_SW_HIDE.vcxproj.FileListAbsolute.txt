@@ -1,0 +1,2 @@
+E:\hrituja_rtr\WinDev\WinDev2020\06_ShowWindow\02_SW_HIDE\Debug\02_SW_HIDE.exe
+E:\hrituja_rtr\WinDev\WinDev2020\06_ShowWindow\02_SW_HIDE\Debug\02_SW_HIDE.pdb
